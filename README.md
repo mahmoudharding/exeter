@@ -17,3 +17,9 @@ This repository contains resources for the Foundations of Data Science Summer In
 - lab08/ [Simple Linear Regression]
 - lab09/ [Re-expression and Evaluating Models]
 - lab10/ [Multiple Linear Regression and Feature Selection]
+
+#### f/
+- data/
+  - actors.csv
+  - baby.csv 
+- lab01/ [Expressions, Assignment Statements and Functions]
