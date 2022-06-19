@@ -5,7 +5,7 @@ This repository contains resources for the Foundations of Data Science Summer In
 
 ### Contents
 
-#### a/
+#### a/ [Folder of resources for Advanced Data Science]
 
 - lab01/ [Python Basics]
 - lab02/ [Fun with Text]
@@ -18,7 +18,7 @@ This repository contains resources for the Foundations of Data Science Summer In
 - lab09/ [Re-expression and Evaluating Models]
 - lab10/ [Multiple Linear Regression and Feature Selection]
 
-#### f/
+#### f/ [Folder of resources for Foundations of Data Science]
 - data/
   - actors.csv
   - baby.csv
