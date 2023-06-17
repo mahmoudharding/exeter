@@ -1,24 +1,26 @@
 # Exeter
 
 ## Anja S. Greer Conference on Mathematics and Technology
-This repository contains resources for the Foundations of Data Science Summer Institute 2022.
+This repository contains resources for the Foundations of Data Science and Advanced Data Science for High School for 2022-2023.
 
 ### Contents
 
-#### a/ [Folder of resources for Advanced Data Science]
+#### 22
 
-- lab01/ [Python Basics]
-- lab02/ [Fun with Text]
-- lab03/ [Probability Distributions]
-- lab04/ [Pandas Overview]
-- lab05/ [Pandas Continued]
-- lab06/ [Plotting]
-- lab07/ [Modeling and Estimation with Loss Functions]
-- lab08/ [Simple Linear Regression]
-- lab09/ [Re-expression and Evaluating Models]
-- lab10/ [Multiple Linear Regression and Feature Selection]
+##### a/ [Folder of resources for Advanced Data Science]
 
-#### f/ [Folder of resources for Foundations of Data Science]
+  - lab01/ [Python Basics]
+  - lab02/ [Fun with Text]
+  - lab03/ [Probability Distributions]
+  - lab04/ [Pandas Overview]
+  - lab05/ [Pandas Continued]
+  - lab06/ [Plotting]
+  - lab07/ [Modeling and Estimation with Loss Functions]
+  - lab08/ [Simple Linear Regression]
+  - lab09/ [Re-expression and Evaluating Models]
+  - lab10/ [Multiple Linear Regression and Feature Selection]
+
+##### f/ [Folder of resources for Foundations of Data Science]
 - data/
   - actors.csv
   - baby.csv
@@ -39,6 +41,7 @@ This repository contains resources for the Foundations of Data Science Summer In
   - skyscrapers.csv 
   - top_movies_2017.csv 
   - united.csv 
+
 - lab01/ [Expressions, Assignment Statements and Functions]
 - lab02/ [Assignment Statements and Table Operations]
 - lab03/ [Data Types and Arrays]
