@@ -3,11 +3,9 @@
 ## Anja S. Greer Conference on Mathematics and Technology
 This repository contains resources for the Foundations of Data Science and Advanced Data Science for High School for 2022-2023.
 
-## Contents
+## 22
 
-### 22
-
-##### a/ [Folder of resources for Advanced Data Science]
+### a/ [Folder of resources for Advanced Data Science]
 
   - lab01/ [Python Basics]
   - lab02/ [Fun with Text]
