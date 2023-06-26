@@ -1,0 +1,3 @@
+169.237.46.168 - - [26/Jan/2014:10:47:58 -0800] "GET /ma4112/Spring23/ HTTP/1.1" 200 2585 "http://www.ncssm.edu/courses/"
+193.205.203.3 - - [2/Feb/2005:17:23:6 -0800] "GET /ma4112/Notes/dim.html HTTP/1.0" 404 302 "http://www.ncssm.edu/ma4112/Notes/session.html"
+169.237.46.240 - "" [3/Feb/2006:10:18:37 -0800] "GET /ma4112/homework/Solutions/hw1Sol.pdf HTTP/1.1"
